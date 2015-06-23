@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnimationDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lorem_ipsum">Animations can add subtle visual cues that notify users about what is going on in your app and improve their mental model of your app interface. Animations are especially useful when the screen changes state, such as when content loads or new actions become available. Animations can also add a polished look to your app, which gives your app a higher quality feel.Keep in mind though, that overusing animations or using them at the wrong time can be detrimental, such as when they cause delays. This training class shows you how to implement some common types of animations that can increase usability and add flair without annoying your users.</string>
+
+</resources>
